@@ -85,6 +85,7 @@ body::before {
 <a href="20210810_027.JPG" data-lightbox="abc"><img src="20210810_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_028.JPG" data-lightbox="abc"><img src="20210810_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_029.JPG" data-lightbox="abc"><img src="20210810_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_048.JPG" data-lightbox="abc"><img src="20210810_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_030.JPG" data-lightbox="abc"><img src="20210810_030.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_031.JPG" data-lightbox="abc"><img src="20210810_031.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_032.JPG" data-lightbox="abc"><img src="20210810_032.JPG" alt="サンプル画像" width="900" /></a>
@@ -103,7 +104,7 @@ body::before {
 <a href="20210810_045.JPG" data-lightbox="abc"><img src="20210810_045.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_046.JPG" data-lightbox="abc"><img src="20210810_046.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_047.JPG" data-lightbox="abc"><img src="20210810_047.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_048.JPG" data-lightbox="abc"><img src="20210810_048.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20210810_049.JPG" data-lightbox="abc"><img src="20210810_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_050.JPG" data-lightbox="abc"><img src="20210810_050.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_051.JPG" data-lightbox="abc"><img src="20210810_051.JPG" alt="サンプル画像" width="900" /></a>
