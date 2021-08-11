@@ -58,7 +58,7 @@ body::before {
 
 <h3><span class="white">JR宇都宮駅から22kmほど北上したところにある、羽黒山に登って無線とお参りしてきました。</span></h3>
 <a href="20210810_063.png" data-lightbox="abc"><img src="20210810_063.png" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">台風９号の風で霞が飛んで、この季節にしては遠くまで見えています。筑波山（右の山）もクッキリ。</span></h3>
+<h3><span class="white">台風９号の風で霞が飛んで、この季節にしては珍しく遠くまで見えています。<br>筑波山（右の山）もクッキリ。</span></h3>
 <a href="20210810_001.JPG" data-lightbox="abc"><img src="20210810_001.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">地平線上には池袋と新宿の高層ビル群。</span></h3>
 <a href="20210810_015.JPG" data-lightbox="abc"><img src="20210810_015.JPG" alt="サンプル画像" width="900" /></a>
@@ -69,8 +69,11 @@ body::before {
 <a href="20210810_059.JPG" data-lightbox="abc"><img src="20210810_059.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">この展望台から無線運用。</span></h3>
 <a href="20210810_027.JPG" data-lightbox="abc"><img src="20210810_027.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">ハンディー機で宇都宮のハムショップ基地局に繋いで、そこから先はインターネット網のお世話になります。</span></h3>
 <a href="20210810_062.JPG" data-lightbox="abc"><img src="20210810_062.JPG" alt="サンプル画像" width="900" /></a>
-	
+<h3><span class="white">今回も四国の局長さんと、５Wattのデジタル通信でお話しできました。<br>ざっと８５０km離れていますが、問題なく接続できました。</span></h3>
+<a href="20210810_061.png" data-lightbox="abc"><img src="20210810_061.png" alt="サンプル画像" width="900" /></a>	
+
 <a href="20210810_002.JPG" data-lightbox="abc"><img src="20210810_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_003.JPG" data-lightbox="abc"><img src="20210810_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_004.JPG" data-lightbox="abc"><img src="20210810_004.JPG" alt="サンプル画像" width="900" /></a>
@@ -128,7 +131,7 @@ body::before {
 <a href="20210810_057.JPG" data-lightbox="abc"><img src="20210810_057.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_058.JPG" data-lightbox="abc"><img src="20210810_058.JPG" alt="サンプル画像" width="900" /></a>
 
-<a href="20210810_061.png" data-lightbox="abc"><img src="20210810_061.png" alt="サンプル画像" width="900" /></a>
+
 
 
 
