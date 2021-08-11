@@ -96,11 +96,15 @@ body::before {
 <a href="20210810_031.JPG" data-lightbox="abc"><img src="20210810_031.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_032.JPG" data-lightbox="abc"><img src="20210810_032.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_033.JPG" data-lightbox="abc"><img src="20210810_033.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">やっと辿り着いて、お賽銭などあげてお参りです。</span></h3>
 <a href="20210810_034.JPG" data-lightbox="abc"><img src="20210810_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_035.JPG" data-lightbox="abc"><img src="20210810_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_036.JPG" data-lightbox="abc"><img src="20210810_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_037.JPG" data-lightbox="abc"><img src="20210810_037.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_038.JPG" data-lightbox="abc"><img src="20210810_038.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">十二支早見表によると、運勢はまあまあ。</span></h3>
 <a href="20210810_039.JPG" data-lightbox="abc"><img src="20210810_039.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_040.JPG" data-lightbox="abc"><img src="20210810_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_041.JPG" data-lightbox="abc"><img src="20210810_041.JPG" alt="サンプル画像" width="900" /></a>
