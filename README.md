@@ -54,9 +54,10 @@ body::before {
 </head>
 <body>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2021年8月10日(火)栃木県宇都宮市、羽黒山展望台からアマチュア無線 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2021年8月10日(火)栃木県宇都宮市、羽黒山にお参り、展望台からアマチュア無線 !!!</marquee></span></h1>
 
-<h3><span class="white">開始早々、ブレイクアウトルームに迷い込んだところ</span></h3>
+<h3><span class="white">JR宇都宮駅から２２kmほど北上したところにある、羽黒山に登って無線とお参りしてきました。</span></h3>
+<a href="20210810_063.png" data-lightbox="abc"><img src="20210810_063.png" alt="サンプル画像" width="900" /></a>
 
 <a href="20210810_001.JPG" data-lightbox="abc"><img src="20210810_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_002.JPG" data-lightbox="abc"><img src="20210810_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -119,7 +120,7 @@ body::before {
 <a href="20210810_060.JPG" data-lightbox="abc"><img src="20210810_060.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_061.png" data-lightbox="abc"><img src="20210810_061.png" alt="サンプル画像" width="900" /></a>
 <a href="20210810_062.JPG" data-lightbox="abc"><img src="20210810_062.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_063.png" data-lightbox="abc"><img src="20210810_063.png" alt="サンプル画像" width="900" /></a>
+
 
 <h3><span class="white">秋月さん、庭石報告・・・通信トラブルにつき別途・・・</span></h3>
 
@@ -143,6 +144,6 @@ body::before {
 <script src="https://torokoid.github.io/shiba/my.js"></script> 
 
 <!-- フッタ -->
- <footer>
+ <footer><span class="white">
  Copyright 2021/08/07 S.Hada
- </footer>
+	 </span></footer>
