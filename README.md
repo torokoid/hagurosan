@@ -107,6 +107,8 @@ body::before {
 <h3><span class="white">十二支早見表によると、運勢はまあまあ。</span></h3>
 <a href="20210810_039.JPG" data-lightbox="abc"><img src="20210810_039.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_040.JPG" data-lightbox="abc"><img src="20210810_040.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">さらに先に進むと密厳神社を経て、日光まで行けるらしいが今回はパス。</span></h3>
 <a href="20210810_041.JPG" data-lightbox="abc"><img src="20210810_041.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_042.JPG" data-lightbox="abc"><img src="20210810_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_043.JPG" data-lightbox="abc"><img src="20210810_043.JPG" alt="サンプル画像" width="900" /></a>
