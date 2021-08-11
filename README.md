@@ -131,9 +131,7 @@ body::before {
 <a href="20210810_054.JPG" data-lightbox="abc"><img src="20210810_054.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">手前の田んぼの中を右斜め上に横切っているのが、東北自動車道。</span></h3>
 <a href="20210810_055.JPG" data-lightbox="abc"><img src="20210810_055.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">下から見上げるとこんな山です。</span></h3>
-<a href="20210810_058.JPG" data-lightbox="abc"><img src="20210810_058.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_057.JPG" data-lightbox="abc"><img src="20210810_057.JPG" alt="サンプル画像" width="900" /></a>
+
 
 <h3><span class="white">画面真ん中あたりを右斜め上に横切っているのは、東北新幹線の高架。</span></h3>
 <a href="20210810_002.JPG" data-lightbox="abc"><img src="20210810_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -156,7 +154,9 @@ body::before {
 
 <a href="20210810_021.JPG" data-lightbox="abc"><img src="20210810_021.JPG" alt="サンプル画像" width="900" /></a>
 
-
+<h3><span class="white">下から見上げるとこんな山です。</span></h3>
+<a href="20210810_058.JPG" data-lightbox="abc"><img src="20210810_058.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_057.JPG" data-lightbox="abc"><img src="20210810_057.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
