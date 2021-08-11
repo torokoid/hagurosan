@@ -82,7 +82,7 @@ body::before {
 <a href="20210810_021.JPG" data-lightbox="abc"><img src="20210810_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_022.JPG" data-lightbox="abc"><img src="20210810_022.JPG" alt="サンプル画像" width="900" /></a>
 
-<a href="20210810_026.JPG" data-lightbox="abc"><img src="20210810_026.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20210810_027.JPG" data-lightbox="abc"><img src="20210810_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_028.JPG" data-lightbox="abc"><img src="20210810_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_029.JPG" data-lightbox="abc"><img src="20210810_029.JPG" alt="サンプル画像" width="900" /></a>
