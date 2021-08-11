@@ -110,6 +110,7 @@ body::before {
 	
 <h3><span class="white">さらに先に進むと密厳神社を経て、日光まで行けるらしいが今回はパス。</span></h3>
 <a href="20210810_041.JPG" data-lightbox="abc"><img src="20210810_041.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">梵天祭のフィギアが飾られていました。</span></h3>
 <a href="20210810_042.JPG" data-lightbox="abc"><img src="20210810_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_043.JPG" data-lightbox="abc"><img src="20210810_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_044.JPG" data-lightbox="abc"><img src="20210810_044.JPG" alt="サンプル画像" width="900" /></a>
@@ -124,9 +125,10 @@ body::before {
 <a href="20210810_053.JPG" data-lightbox="abc"><img src="20210810_053.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_054.JPG" data-lightbox="abc"><img src="20210810_054.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_055.JPG" data-lightbox="abc"><img src="20210810_055.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_056.JPG" data-lightbox="abc"><img src="20210810_056.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_057.JPG" data-lightbox="abc"><img src="20210810_057.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">したから見上げるとこんな山です。</span></h3>
 <a href="20210810_058.JPG" data-lightbox="abc"><img src="20210810_058.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_057.JPG" data-lightbox="abc"><img src="20210810_057.JPG" alt="サンプル画像" width="900" /></a>
+
 
 <a href="20210810_002.JPG" data-lightbox="abc"><img src="20210810_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_003.JPG" data-lightbox="abc"><img src="20210810_003.JPG" alt="サンプル画像" width="900" /></a>
