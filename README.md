@@ -69,7 +69,7 @@ body::before {
 <a href="20210810_059.JPG" data-lightbox="abc"><img src="20210810_059.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">この展望台から無線運用。</span></h3>
 <a href="20210810_027.JPG" data-lightbox="abc"><img src="20210810_027.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">ハンディー機で宇都宮のハムショップ基地局に繋いで、そこから先はインターネット網のお世話になります。</span></h3>
+<h3><span class="white">ハンディー機で隣町の真岡市にある基地局に繋いで、そこから先はインターネット網のお世話になります。</span></h3>
 <a href="20210810_062.JPG" data-lightbox="abc"><img src="20210810_062.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">今回も四国の局長さんと、５Wattのデジタル通信でお話しできました。<br>
 	ざっと850km離れていますが、問題なく接続。<br>接続先はJA5WTL,鈴木OMが開設しているシコチューRoom、ID:42710のアナログノードです。
@@ -81,30 +81,14 @@ body::before {
 <h3><span class="white">私も負けじと、持ち込んだデバイス全ての位置情報を出して足跡を残しました。<br>赤い線がここまで登った車の車載機、-7はハンディー機、-iはi-Phoneのアプリから出した信号、四国との交信に使ったハンディー機の信号は見検出でした。</span></h3>
 <a href="20210810_065.JPG" data-lightbox="abc"><img src="20210810_065.JPG" alt="サンプル画像" width="900" /></a>	
 	
-<a href="20210810_002.JPG" data-lightbox="abc"><img src="20210810_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_003.JPG" data-lightbox="abc"><img src="20210810_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_004.JPG" data-lightbox="abc"><img src="20210810_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_005.JPG" data-lightbox="abc"><img src="20210810_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_006.JPG" data-lightbox="abc"><img src="20210810_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_007.JPG" data-lightbox="abc"><img src="20210810_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_008.JPG" data-lightbox="abc"><img src="20210810_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_009.JPG" data-lightbox="abc"><img src="20210810_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_010.JPG" data-lightbox="abc"><img src="20210810_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_011.JPG" data-lightbox="abc"><img src="20210810_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_012.JPG" data-lightbox="abc"><img src="20210810_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_013.JPG" data-lightbox="abc"><img src="20210810_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_014.JPG" data-lightbox="abc"><img src="20210810_014.JPG" alt="サンプル画像" width="900" /></a>
-
-<a href="20210810_016.JPG" data-lightbox="abc"><img src="20210810_016.JPG" alt="サンプル画像" width="900" /></a>
-
-<a href="20210810_018.JPG" data-lightbox="abc"><img src="20210810_018.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">交信が終わってふと空を見上げると、北向けの旅客機が飛んで行きました。</span></h3>
 <a href="20210810_019.JPG" data-lightbox="abc"><img src="20210810_019.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">今回も無事交信できたお礼に、赤い鳥居を潜って山頂の羽黒山神社にお参りします。</span></h3>
 <a href="20210810_020.JPG" data-lightbox="abc"><img src="20210810_020.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_021.JPG" data-lightbox="abc"><img src="20210810_021.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_022.JPG" data-lightbox="abc"><img src="20210810_022.JPG" alt="サンプル画像" width="900" /></a>
 
 
-
+<h3><span class="white">しかし、ここからの階段が長い道のり。</span></h3>
 <a href="20210810_028.JPG" data-lightbox="abc"><img src="20210810_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_029.JPG" data-lightbox="abc"><img src="20210810_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_048.JPG" data-lightbox="abc"><img src="20210810_048.JPG" alt="サンプル画像" width="900" /></a>
@@ -138,9 +122,26 @@ body::before {
 <a href="20210810_057.JPG" data-lightbox="abc"><img src="20210810_057.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_058.JPG" data-lightbox="abc"><img src="20210810_058.JPG" alt="サンプル画像" width="900" /></a>
 
+<a href="20210810_002.JPG" data-lightbox="abc"><img src="20210810_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_003.JPG" data-lightbox="abc"><img src="20210810_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_004.JPG" data-lightbox="abc"><img src="20210810_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_005.JPG" data-lightbox="abc"><img src="20210810_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_006.JPG" data-lightbox="abc"><img src="20210810_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_007.JPG" data-lightbox="abc"><img src="20210810_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_008.JPG" data-lightbox="abc"><img src="20210810_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_009.JPG" data-lightbox="abc"><img src="20210810_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_010.JPG" data-lightbox="abc"><img src="20210810_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_011.JPG" data-lightbox="abc"><img src="20210810_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_012.JPG" data-lightbox="abc"><img src="20210810_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_013.JPG" data-lightbox="abc"><img src="20210810_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_014.JPG" data-lightbox="abc"><img src="20210810_014.JPG" alt="サンプル画像" width="900" /></a>
 
+<a href="20210810_016.JPG" data-lightbox="abc"><img src="20210810_016.JPG" alt="サンプル画像" width="900" /></a>
 
+<a href="20210810_018.JPG" data-lightbox="abc"><img src="20210810_018.JPG" alt="サンプル画像" width="900" /></a>
 
+<a href="20210810_021.JPG" data-lightbox="abc"><img src="20210810_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210810_022.JPG" data-lightbox="abc"><img src="20210810_022.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
