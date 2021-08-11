@@ -112,6 +112,7 @@ body::before {
 <a href="20210810_041.JPG" data-lightbox="abc"><img src="20210810_041.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">梵天祭のフィギアが飾られていました。</span></h3>
 <a href="20210810_042.JPG" data-lightbox="abc"><img src="20210810_042.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">こちらにもお賽銭入れて、鐘をひと突き。</span></h3>
 <a href="20210810_043.JPG" data-lightbox="abc"><img src="20210810_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_044.JPG" data-lightbox="abc"><img src="20210810_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_045.JPG" data-lightbox="abc"><img src="20210810_045.JPG" alt="サンプル画像" width="900" /></a>
@@ -177,5 +178,5 @@ body::before {
 
 <!-- フッタ -->
  <footer><span class="white">
- Copyright 2021/08/07 S.Hada
+ Copyright 2021/08/10 S.Hada
 	 </span></footer>
