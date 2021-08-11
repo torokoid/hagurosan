@@ -129,8 +129,9 @@ body::before {
 <a href="20210810_052.JPG" data-lightbox="abc"><img src="20210810_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_053.JPG" data-lightbox="abc"><img src="20210810_053.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_054.JPG" data-lightbox="abc"><img src="20210810_054.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">手前の田んぼの中を右斜め上に横切っているのが、東北自動車道。</span></h3>
 <a href="20210810_055.JPG" data-lightbox="abc"><img src="20210810_055.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">したから見上げるとこんな山です。</span></h3>
+<h3><span class="white">下から見上げるとこんな山です。</span></h3>
 <a href="20210810_058.JPG" data-lightbox="abc"><img src="20210810_058.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_057.JPG" data-lightbox="abc"><img src="20210810_057.JPG" alt="サンプル画像" width="900" /></a>
 
