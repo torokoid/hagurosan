@@ -116,8 +116,12 @@ body::before {
 <a href="20210810_044.JPG" data-lightbox="abc"><img src="20210810_044.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_045.JPG" data-lightbox="abc"><img src="20210810_045.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_046.JPG" data-lightbox="abc"><img src="20210810_046.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">お参りを済ませて、ここからは下りです。</span></h3>
 <a href="20210810_047.JPG" data-lightbox="abc"><img src="20210810_047.JPG" alt="サンプル画像" width="900" /></a>
-
+<h3><span class="white">蝉がなく中、吹き抜ける風が爽やかでした。</span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ajhx7bOMsv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 <a href="20210810_049.JPG" data-lightbox="abc"><img src="20210810_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_050.JPG" data-lightbox="abc"><img src="20210810_050.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_051.JPG" data-lightbox="abc"><img src="20210810_051.JPG" alt="サンプル画像" width="900" /></a>
