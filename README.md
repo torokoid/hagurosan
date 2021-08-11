@@ -61,9 +61,9 @@ body::before {
 <h3><span class="white">台風９号の風で霞が飛んで、この季節にしては遠くまで見えています。筑波山（右の山）もクッキリ。</span></h3>
 <a href="20210810_001.JPG" data-lightbox="abc"><img src="20210810_001.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">地平線上には池袋と新宿の高層ビル群。</span></h3>
-	
+<a href="20210810_015.JPG" data-lightbox="abc"><img src="20210810_015.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">スカイツリーも見えています。</span></h3>
-	
+<a href="20210810_017.JPG" data-lightbox="abc"><img src="20210810_017.JPG" alt="サンプル画像" width="900" /></a>	
 <h3><span class="white">それぞれのアップ。</span></h3>
 
 <a href="20210810_002.JPG" data-lightbox="abc"><img src="20210810_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -79,9 +79,9 @@ body::before {
 <a href="20210810_012.JPG" data-lightbox="abc"><img src="20210810_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_013.JPG" data-lightbox="abc"><img src="20210810_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_014.JPG" data-lightbox="abc"><img src="20210810_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_015.JPG" data-lightbox="abc"><img src="20210810_015.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20210810_016.JPG" data-lightbox="abc"><img src="20210810_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210810_017.JPG" data-lightbox="abc"><img src="20210810_017.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20210810_018.JPG" data-lightbox="abc"><img src="20210810_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_019.JPG" data-lightbox="abc"><img src="20210810_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_020.JPG" data-lightbox="abc"><img src="20210810_020.JPG" alt="サンプル画像" width="900" /></a>
