@@ -71,7 +71,9 @@ body::before {
 <a href="20210810_027.JPG" data-lightbox="abc"><img src="20210810_027.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">ハンディー機で宇都宮のハムショップ基地局に繋いで、そこから先はインターネット網のお世話になります。</span></h3>
 <a href="20210810_062.JPG" data-lightbox="abc"><img src="20210810_062.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">今回も四国の局長さんと、５Wattのデジタル通信でお話しできました。<br>ざっと８５０km離れていますが、問題なく接続できました。</span></h3>
+<h3><span class="white">今回も四国の局長さんと、５Wattのデジタル通信でお話しできました。<br>
+	ざっと850km離れていますが、問題なく接続できました。<br>接続先はJA５WTL,鈴木OMが開設しているシコチューRoom、ID:42710のアナログノードです。
+	</span></h3>
 <a href="20210810_061.png" data-lightbox="abc"><img src="20210810_061.png" alt="サンプル画像" width="900" /></a>	
 
 <a href="20210810_002.JPG" data-lightbox="abc"><img src="20210810_002.JPG" alt="サンプル画像" width="900" /></a>
