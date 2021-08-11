@@ -76,8 +76,10 @@ body::before {
 	</span></h3>
 <a href="20210810_061.png" data-lightbox="abc"><img src="20210810_061.png" alt="サンプル画像" width="900" /></a>	
 
-<h3><span class="white">実はここに到着した際に、車載のモービル機から関越自動車道を走行中の局長さんとも繋がっています。<br>先方はGPSで位置情報を出していたのでスマホで確認できました。<br>関越から圏央道に入った先のパーキングに止まって交信いただきました。JL1USZ,やまぐちOMです。</span></h3>
-	
+<h3><span class="white">実はここに到着した際に、車載のモービル機から関越自動車道を走行中の局長さんとも繋がっています。<br>先方はGPSで位置情報を出していたのでスマホで確認できました。<br>関越から圏央道に入った先の狭山パーキングに止まって交信いただきました。JL1USZ,やまぐちOMです。</span></h3>
+<a href="20210810_064.PNG" data-lightbox="abc"><img src="20210810_064.PNG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">私も負けじと、持ち込んだデバイス全ての位置情報を出して足跡を残しました。<br>赤い線がここまで登った車の車載機、-7はハンディー機、-iはi-Phoneのアプリから出した信号、四国との交信に使ったハンディー機の信号は見検出でした。</span></h3>
+<a href="20210810_065.JPG" data-lightbox="abc"><img src="20210810_065.JPG" alt="サンプル画像" width="900" /></a>	
 	
 <a href="20210810_002.JPG" data-lightbox="abc"><img src="20210810_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210810_003.JPG" data-lightbox="abc"><img src="20210810_003.JPG" alt="サンプル画像" width="900" /></a>
