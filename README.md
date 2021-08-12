@@ -54,6 +54,11 @@ body::before {
 </head>
 <body>
 
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにすると
+  より見やすくご覧頂けます。
+</p>
+	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年8月10日(火)栃木県宇都宮市、羽黒山にお参り、展望台からアマチュア無線 !!!</marquee></span></h1>
 
 <h3><span class="white">JR宇都宮駅から22kmほど北上したところにある、羽黒山に登って無線とお参りしてきました。</span></h3>
@@ -165,7 +170,7 @@ body::before {
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<p align="right"><marquee direction="left" scrollamount="20" width="60%">以上、ここまでご覧いただき、ありがとうございました！ (^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="5" width="85%">以上、ここまでご覧いただき、ありがとうございました！ (^_^)/~hada</marquee></p>
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
