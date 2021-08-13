@@ -73,7 +73,7 @@ body::before {
 <a href="20210810_015.JPG" data-lightbox="abc"><img src="20210810_015.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">スカイツリーも見えています。</span></h3>
 <a href="20210810_017.JPG" data-lightbox="abc"><img src="20210810_017.JPG" alt="サンプル画像" width="900" /></a>	
-<h3><span class="white">それぞれのアップ。</span></h3>
+<h3><span class="white">さすがにこれは拡大しないと見えないので、それぞれのアップ。</span></h3>
 <a href="20210810_060.JPG" data-lightbox="abc"><img src="20210810_060.JPG" alt="サンプル画像" width="900" /></a>	
 <a href="20210810_059.JPG" data-lightbox="abc"><img src="20210810_059.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">この展望台から無線運用。</span></h3>
@@ -119,7 +119,7 @@ body::before {
 	
 <h3><span class="white">さらに先に進むと密厳神社を経て、日光まで行けるらしいが今回はパス。</span></h3>
 <a href="20210810_041.JPG" data-lightbox="abc"><img src="20210810_041.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">梵天祭のフィギアが飾られていました。</span></h3>
+<h3><span class="white">梵天まつりのフィギアが飾られていました。</span></h3>
 <a href="20210810_042.JPG" data-lightbox="abc"><img src="20210810_042.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">こちらにもお賽銭入れて、鐘をひと突き。</span></h3>
 <a href="20210810_043.JPG" data-lightbox="abc"><img src="20210810_043.JPG" alt="サンプル画像" width="900" /></a>
