@@ -64,7 +64,7 @@ body::before {
 </p>
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月23日(土)栃木県宇都宮市、羽黒山展望台からアマチュア無線 !!!</marquee></span></h1>
-<h3><span class="white">前回8月10日に続いて羽黒山から無線、晩秋でしたが景色は霞がかかっていてイマイチ。<br>8月の時の方が空気が澄んでたかも。<br>シコチュールームで横浜のJJ1XKL門OMと繋がりました。</span></h3>
+<h3><span class="white">前回8月10日に続いて羽黒山から無線、晩秋でしたが景色は霞がかかっていてイマイチ。<br>8月の時の方が空気が澄んでたかも。<br>シコチュールームで横浜のJJ1XKL:門OMと繋がりました。</span></h3>
 <a href="20211023_001.JPG" data-lightbox="abc"><img src="20211023_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211023_002.JPG" data-lightbox="abc"><img src="20211023_002.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">スポーツの秋、麓からランニングで上がってくる強者も！</span></h3>
