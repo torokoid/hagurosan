@@ -63,6 +63,27 @@ body::before {
   より見やすくご覧頂けます。
 </p>
 	
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2021年10月23日(土)栃木県宇都宮市、羽黒山展望台からアマチュア無線 !!!</marquee></span></h1>
+<h3><span class="white">前回8月10日に続いて羽黒山から無線、晩秋でしたが景色は霞がかかっていてイマイチ。<br>シコチュールームで横浜の門OMと繋がりました。</span></h3>
+<a href="20211023_001.JPG" data-lightbox="abc"><img src="20211023_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211023_002.JPG" data-lightbox="abc"><img src="20211023_002.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">スポーツの秋、麓からランニングで上がってくる強者も！</span></h3>
+<a href="20211023_003.JPG" data-lightbox="abc"><img src="20211023_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211023_004.JPG" data-lightbox="abc"><img src="20211023_004.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">こちらはアベックツーリング！</span></h3>
+<a href="20211023_005.JPG" data-lightbox="abc"><img src="20211023_005.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">地平線にはニョッキっと突き出たスカイツリーです。</span></h3>
+<a href="20211023_006.JPG" data-lightbox="abc"><img src="20211023_006.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">中腹の商業アンテナ群も健在。</span></h3>
+<a href="20211023_007.JPG" data-lightbox="abc"><img src="20211023_007.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">食堂も営業中でした。</span></h3>
+<a href="20211023_008.JPG" data-lightbox="abc"><img src="20211023_008.JPG" alt="サンプル画像" width="900" /></a>
+
+	
+	
+	
+<br><br><br><br><br><br><br><br><br>
+	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年8月10日(火)栃木県宇都宮市、羽黒山にお参り、展望台からアマチュア無線 !!!</marquee></span></h1>
 
 <h3><span class="white">JR宇都宮駅から22kmほど北上したところにある、羽黒山に登って無線とお参りしてきました。</span></h3>
