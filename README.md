@@ -64,7 +64,7 @@ body::before {
 </p>
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年11月6日(土)栃木県宇都宮市、羽黒山展望台からまたまたアマチュア無線 !!!</marquee></span></h1>
-<h3><span class="white">前回10月23日に続いて羽黒山から無線、前回に続いて景色はさらに霞がかかっていてイマイチ。<br>スカイツリーや新宿、池袋の高層ビルも見えません。<br>シコチュールームで横浜のJJ1XKL:門OM、シコチュールームオーナーのJA5WTL:鈴木OMと繋がりました。<br>横浜は曇り空とのことでした。</span></h3>	
+<h3><span class="white">前回10月23日に続いて羽黒山から無線、前回に続いて景色はさらに霞がかかっていてイマイチ。<br>スカイツリーや新宿、池袋の高層ビルも見えません。<br>シコチュールームで横浜のJJ1XKL:門OM、ルームオーナーのJA5WTL:鈴木OMと繋がりました。<br>横浜は曇り空とのことでした。</span></h3>	
 <a href="20211106_001.JPG" data-lightbox="abc"><img src="20211106_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211106_002.JPG" data-lightbox="abc"><img src="20211106_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211106_003.JPG" data-lightbox="abc"><img src="20211106_003.JPG" alt="サンプル画像" width="900" /></a>
