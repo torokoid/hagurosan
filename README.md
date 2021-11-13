@@ -102,7 +102,7 @@ body::before {
 <h3><span class="white">おかめの仮面でした。</span></h3>	
 <a href="20211113_019.JPG" data-lightbox="abc"><img src="20211113_019.JPG" alt="サンプル画像" width="900" /></a>
 	
-<h3><span class="white">仮面を横目にさらに進みます。</span></h3>	
+<h3><span class="white">おかめの仮面を横目にさらに進みます。</span></h3>	
 <a href="20211113_020.JPG" data-lightbox="abc"><img src="20211113_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_021.JPG" data-lightbox="abc"><img src="20211113_021.JPG" alt="サンプル画像" width="900" /></a>
 	
@@ -123,7 +123,6 @@ body::before {
 <a href="20211113_028.JPG" data-lightbox="abc"><img src="20211113_028.JPG" alt="サンプル画像" width="900" /></a>
 	
 <h3><span class="white">御本尊は、扉の向こうですね。</span></h3>
-<a href="20211113_027.JPG" data-lightbox="abc"><img src="20211113_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_029.JPG" data-lightbox="abc"><img src="20211113_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_030.JPG" data-lightbox="abc"><img src="20211113_030.JPG" alt="サンプル画像" width="900" /></a>
 
