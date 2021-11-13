@@ -64,41 +64,76 @@ body::before {
 </p>
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年11月13日(土)またまた、朝から羽黒山に登りました !!!</marquee></span></h1>
-<h3><span class="white">前回11月6日にJJ1XKL:門さんよりリクエストの富士山映像を撮影すべく羽黒さんに向かいます。<br>今回もスカイツリーや新宿、池袋の高層ビルも見えません。</span></h3>	
 	
+<h3><span class="white">前回11月6日にJJ1XKL:門さんよりリクエストの富士山映像を撮影すべく羽黒さんに向かいます。</span></h3>	
 <a href="20211113_001.JPG" data-lightbox="abc"><img src="20211113_001.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">展望台からの眺めは天気も良いので壮観。</span></h3>	
 <a href="20211113_002.JPG" data-lightbox="abc"><img src="20211113_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white">自転車で来ている強者もいます。</span></h3>		
 <a href="20211113_003.JPG" data-lightbox="abc"><img src="20211113_003.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">地平付近の空気は水蒸気が多いのか、筑波山も霞みました。<br>今回もスカイツリーや新宿、池袋の高層ビルも見えません。</span></h3>	
 <a href="20211113_004.JPG" data-lightbox="abc"><img src="20211113_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_005.JPG" data-lightbox="abc"><img src="20211113_005.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">山の上では、紅葉が始まっていました。</span></h3>	
 <a href="20211113_006.JPG" data-lightbox="abc"><img src="20211113_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_007.JPG" data-lightbox="abc"><img src="20211113_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211113_008.JPG" data-lightbox="abc"><img src="20211113_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211113_009.JPG" data-lightbox="abc"><img src="20211113_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211113_010.JPG" data-lightbox="abc"><img src="20211113_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211113_011.JPG" data-lightbox="abc"><img src="20211113_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211113_012.JPG" data-lightbox="abc"><img src="20211113_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211113_013.JPG" data-lightbox="abc"><img src="20211113_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211113_014.JPG" data-lightbox="abc"><img src="20211113_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211113_015.JPG" data-lightbox="abc"><img src="20211113_015.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">元気なうちに階段登って富士山撮影に向かいます。<br>階段写真は初回にも撮ったので小さくまとめました。</span></h3>	
+<a href="20211113_008.JPG" data-lightbox="abc"><img src="20211113_008.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20211113_009.JPG" data-lightbox="abc"><img src="20211113_009.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20211113_010.JPG" data-lightbox="abc"><img src="20211113_010.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20211113_011.JPG" data-lightbox="abc"><img src="20211113_011.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20211113_012.JPG" data-lightbox="abc"><img src="20211113_012.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20211113_013.JPG" data-lightbox="abc"><img src="20211113_013.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20211113_014.JPG" data-lightbox="abc"><img src="20211113_014.JPG" alt="サンプル画像" width="300" /></a>
+<a href="20211113_015.JPG" data-lightbox="abc"><img src="20211113_015.JPG" alt="サンプル画像" width="300" /></a>
+	
+<h3><span class="white">今回はこの先まで足を伸ばします。</span></h3>	
 <a href="20211113_016.JPG" data-lightbox="abc"><img src="20211113_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_017.JPG" data-lightbox="abc"><img src="20211113_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white">木の根元に何かあります。</span></h3>	
 <a href="20211113_018.JPG" data-lightbox="abc"><img src="20211113_018.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">おかめの仮面でした。</span></h3>	
 <a href="20211113_019.JPG" data-lightbox="abc"><img src="20211113_019.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">仮面を横目にさらに進みます。</span></h3>	
 <a href="20211113_020.JPG" data-lightbox="abc"><img src="20211113_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_021.JPG" data-lightbox="abc"><img src="20211113_021.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">椅子が並ぶ、富士見百景ポイントに到着。</span></h3>	
 <a href="20211113_022.JPG" data-lightbox="abc"><img src="20211113_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_023.JPG" data-lightbox="abc"><img src="20211113_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_024.JPG" data-lightbox="abc"><img src="20211113_024.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">富士山はバッチリ見えました。</span></h3>	
 <a href="20211113_025.JPG" data-lightbox="abc"><img src="20211113_025.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">今回は、さらに奥に進みます。</span></h3>	
 <a href="20211113_026.JPG" data-lightbox="abc"><img src="20211113_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_027.JPG" data-lightbox="abc"><img src="20211113_027.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white">密嶽神社です。</span></h3>
+<a href="20211113_031.JPG" data-lightbox="abc"><img src="20211113_031.JPG" alt="サンプル画像" width="900" /></a>	
 <a href="20211113_028.JPG" data-lightbox="abc"><img src="20211113_028.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">御本尊は、扉の向こうですね。</span></h3>
+<a href="20211113_027.JPG" data-lightbox="abc"><img src="20211113_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_029.JPG" data-lightbox="abc"><img src="20211113_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_030.JPG" data-lightbox="abc"><img src="20211113_030.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20211113_031.JPG" data-lightbox="abc"><img src="20211113_031.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="white">看板の説明にあった、作者不明の彫刻。</span></h3>
 <a href="20211113_032.JPG" data-lightbox="abc"><img src="20211113_032.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">無事戻って、階段を振り返りました。</span></h3>
 <a href="20211113_033.JPG" data-lightbox="abc"><img src="20211113_033.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">今回足を運んだ場所です。</span></h3>
 <a href="20211113_034.png" data-lightbox="abc"><img src="20211113_034.png" alt="サンプル画像" width="900" /></a>
 	
 <br><br><br><br><br><br><br><br><br>
