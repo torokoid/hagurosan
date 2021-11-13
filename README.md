@@ -63,6 +63,46 @@ body::before {
   より見やすくご覧頂けます。
 </p>
 	
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2021年11月13日(土)またまた、朝から羽黒山に登りました !!!</marquee></span></h1>
+<h3><span class="white">前回11月6日にJJ1XKL:門さんよりリクエストの富士山映像を撮影すべく羽黒さんに向かいます。<br>今回もスカイツリーや新宿、池袋の高層ビルも見えません。</span></h3>	
+	
+<a href="20211113_001.JPG" data-lightbox="abc"><img src="20211113_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_002.JPG" data-lightbox="abc"><img src="20211113_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_003.JPG" data-lightbox="abc"><img src="20211113_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_004.JPG" data-lightbox="abc"><img src="20211113_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_005.JPG" data-lightbox="abc"><img src="20211113_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_006.JPG" data-lightbox="abc"><img src="20211113_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_007.JPG" data-lightbox="abc"><img src="20211113_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_008.JPG" data-lightbox="abc"><img src="20211113_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_009.JPG" data-lightbox="abc"><img src="20211113_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_010.JPG" data-lightbox="abc"><img src="20211113_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_011.JPG" data-lightbox="abc"><img src="20211113_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_012.JPG" data-lightbox="abc"><img src="20211113_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_013.JPG" data-lightbox="abc"><img src="20211113_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_014.JPG" data-lightbox="abc"><img src="20211113_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_015.JPG" data-lightbox="abc"><img src="20211113_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_016.JPG" data-lightbox="abc"><img src="20211113_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_017.JPG" data-lightbox="abc"><img src="20211113_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_018.JPG" data-lightbox="abc"><img src="20211113_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_019.JPG" data-lightbox="abc"><img src="20211113_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_020.JPG" data-lightbox="abc"><img src="20211113_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_021.JPG" data-lightbox="abc"><img src="20211113_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_022.JPG" data-lightbox="abc"><img src="20211113_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_023.JPG" data-lightbox="abc"><img src="20211113_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_024.JPG" data-lightbox="abc"><img src="20211113_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_025.JPG" data-lightbox="abc"><img src="20211113_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_026.JPG" data-lightbox="abc"><img src="20211113_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_027.JPG" data-lightbox="abc"><img src="20211113_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_028.JPG" data-lightbox="abc"><img src="20211113_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_029.JPG" data-lightbox="abc"><img src="20211113_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_030.JPG" data-lightbox="abc"><img src="20211113_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_031.JPG" data-lightbox="abc"><img src="20211113_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_032.JPG" data-lightbox="abc"><img src="20211113_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_033.JPG" data-lightbox="abc"><img src="20211113_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20211113_034.png" data-lightbox="abc"><img src="20211113_034.png" alt="サンプル画像" width="900" /></a>
+	
+<br><br><br><br><br><br><br><br><br>
+	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年11月6日(土)栃木県宇都宮市、羽黒山展望台からまたまたアマチュア無線 !!!</marquee></span></h1>
 <h3><span class="white">前回10月23日に続いて羽黒山から無線、前回に続いて景色はさらに霞がかかっていてイマイチ。<br>スカイツリーや新宿、池袋の高層ビルも見えません。<br>シコチュールームで横浜のJJ1XKL:門OM、ルームオーナーのJA5WTL:鈴木OMと繋がりました。<br>横浜は曇り空とのことでした。</span></h3>	
 <a href="20211106_001.JPG" data-lightbox="abc"><img src="20211106_001.JPG" alt="サンプル画像" width="900" /></a>
