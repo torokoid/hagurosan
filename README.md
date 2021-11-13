@@ -108,6 +108,8 @@ body::before {
 	
 <h3><span class="white">椅子が並ぶ、富士見百景ポイントに到着。</span></h3>	
 <a href="20211113_022.JPG" data-lightbox="abc"><img src="20211113_022.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h3><span class="white">木の棒に空いた穴からのぞいた先に、富士山が見えます。</span></h3>	
 <a href="20211113_023.JPG" data-lightbox="abc"><img src="20211113_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211113_024.JPG" data-lightbox="abc"><img src="20211113_024.JPG" alt="サンプル画像" width="900" /></a>
 	
