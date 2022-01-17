@@ -65,7 +65,7 @@ body::before {
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年11月13日(土)またまた、朝から羽黒山に登りました !!!</marquee></span></h1>
 	
-<h3><span class="white">前回11月6日にJJ1XKL:門さんよりリクエストの富士山映像を撮影すべく羽黒さんに向かいます。</span></h3>	
+<h3><span class="white">前回11月6日にJJ1XKL:門さんよりリクエストの富士山映像を撮影すべく羽黒山に向かいます。</span></h3>	
 <a href="20211113_001.JPG" data-lightbox="abc"><img src="20211113_001.JPG" alt="サンプル画像" width="900" /></a>
 	
 <h3><span class="white">展望台からの眺めは天気も良いので壮観。</span></h3>	
